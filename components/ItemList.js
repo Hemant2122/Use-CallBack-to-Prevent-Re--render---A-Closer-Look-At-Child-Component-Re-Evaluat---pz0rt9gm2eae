@@ -1,6 +1,7 @@
 import React from 'react';
 
 function ItemList({ items }) {
+    
     console.log("ItemList rendered!"); // DO NOT EDIT THIS LINE
 
     return (
